@@ -1,0 +1,22 @@
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\TestCase1.exe
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\TestCase1.deps.json
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\TestCase1.runtimeconfig.json
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\TestCase1.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\TestCase1.dll
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\TestCase1.pdb
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.csproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.csproj.CopyComplete
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.dll
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.pdb
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\obj\Debug\netcoreapp3.1\TestCase1.genruntimeconfig.cache
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\Задание\machine_tools.xlsx
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\Задание\nomenclatures.xlsx
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\Задание\parties.xlsx
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\Задание\Тестовое задание.docx
+C:\Users\Alexandr\source\repos\TestCase1\TestCase1\bin\Debug\netcoreapp3.1\Задание\times.xlsx
